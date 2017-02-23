@@ -3,7 +3,7 @@
 ### Realizada por Eduardo Escobar Alberto
 
 #### **EJECUCIÓN: java ALexico fichero.java**
-#### **FICHERO DE SALIDA: fichero.txt
+#### **FICHERO DE SALIDA: fichero.txt**
 
 El análisis léxico es la primera fase de un compilador. El analizador léxico (scanner en inglés) el módulo del compilador que recibe como entrada el código fuente (secuencia de caracteres) del programa a compilar y produce una salida formada por componentes léxicos o símbolos llamados tokens. Estos tokens sirven para una posterior etapa del proceso de traducción, siendo la entrada para el analizador sintáctico.
 El analizador léxico descompone la secuencia de caracteres del código fuente en una secuencia de tokens y también clasifica estos tokens.
